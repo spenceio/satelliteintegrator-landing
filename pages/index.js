@@ -1,3 +1,5 @@
+import '../styles/globals.css'
+// ... rest of your code
 import React from 'react';
 import { ArrowRight, Sparkles, Satellite, Radio, Shield, Check, Globe, Lock } from 'lucide-react';
 
